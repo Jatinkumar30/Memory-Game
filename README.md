@@ -1,4 +1,3 @@
 # Memory-Game
 Made this Memory Game/Simon Game using HTML,CSS and JAVASCRIPT
-Both players can play this game by "Refreshing" the page alternatively.
-The winner whether "Player1" or "Player2" or Tie game will be displayed ont he top.
+Once a key is pressed you will see buttons blinking and if you match the blinking in loops you will win otherwise you'll lose.
